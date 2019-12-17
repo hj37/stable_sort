@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575613759 source:c:\users\yoon\desktop\백준강의\win2\sort.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
